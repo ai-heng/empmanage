@@ -3,7 +3,7 @@
 <meta http-equiv="content-type" content="text/html;charset=utf-8" />
 </head>
 <?php 
-    echo "欢迎".$_GET['name']."登录成功！";
+    echo "登录成功！";
     echo "<br/><a href='login.php'>返回重新登录</a>";
 ?>
 <h1>主界面</h1>
